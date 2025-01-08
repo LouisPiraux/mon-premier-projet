@@ -1,0 +1,9 @@
+.flexible{
+    display: flex;
+}
+.jutifly-content-space-around{
+    justify-content: space-around;
+}
+.jutifly-content-space-between{
+    justify-content: space-between;
+}
